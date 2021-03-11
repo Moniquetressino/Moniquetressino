@@ -16,7 +16,7 @@
 
 
 
-Profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
+Profissional multidisciplicar, que combina técnicas analíticas com uma visão estratégica da área de negócio.
 
 
 Atualmente cursando Administração e Ciência de Dados.
