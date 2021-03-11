@@ -8,7 +8,7 @@
   </a>
   
   <a href="mailto:moniquetressino@hotmail.com">
-   <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
+   <img src="https://img.shields.io/badge/Email-green?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
  
 
