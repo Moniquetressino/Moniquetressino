@@ -33,7 +33,10 @@ Atualmente cursando Administração e Ciência de Dados.
   </a>
   </p>
 
-
+<p>
+   
+   
+</p>
 
 ## Projetos:
 Veja os tutoriais publicados dos meu projets:
