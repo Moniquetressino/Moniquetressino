@@ -17,7 +17,7 @@
 
 
 
-Profissional multidisciplicar, que combina técnicas analíticas com uma visão estratégica da área de negócio.
+Profissional multidisciplinar, que combina técnicas analíticas com uma visão estratégica da área de negócio.
 
 
 Atualmente cursando Administração e Ciência de Dados.
