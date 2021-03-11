@@ -5,7 +5,7 @@
 </p>
 
 # Monique Tressino
-Estudante de Ciência de Dados
+*Estudante de Ciência de Dados*
 
 Sou uma profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
 
