@@ -3,11 +3,7 @@
 </p>
 
 # Monique Tressino
-
-<p>
-  <a href="https://www.linkedin.com/in/moniquetressino/">    
-   <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
-  </a>
+*Estudante de Ciência de Dados*
   
   <a href="mailto:moniquetressino@hotmail.com">
    <img src="https://img.shields.io/badge/Email-green?style=flat&logo=gmail&logoColor=white&labelColor=green" />
@@ -18,8 +14,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=MoniqueTressino" alt="visitor badge" />
 </p>
 
-*Estudante de Ciência de Dados*
- 
+
 
 Sou uma profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
 
