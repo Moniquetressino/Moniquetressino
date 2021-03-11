@@ -1,16 +1,23 @@
-### Hi there 👋
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-<!--
-**Moniquetressino/Moniquetressino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-Here are some ideas to get you started:
+# Monique Tressino
+Estudante de Ciência de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou uma profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
+
+Atualmente estou cursando Administração e Ciência de Dados.
+
+**Background in:** Python, Power BI.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/moniquetressino/)
+
+
+## Projetos:
+Veja os tutoriais publicados dos meu projets:
+
+
