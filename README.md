@@ -11,7 +11,6 @@
    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
  
-</>
 
 <p align="right">
   <img src="https://visitor-badge.glitch.me/badge?page_id=MoniqueTressino" alt="visitor badge" />
