@@ -16,7 +16,8 @@
 
 
 
-Sou uma profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
+Profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
+
 
 Atualmente estou cursando Administração e Ciência de Dados.
 
