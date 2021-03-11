@@ -7,14 +7,18 @@
 # Monique Tressino
 *Estudante de Ciência de Dados*
 
+
 Sou uma profissional multidisciplicar, que combina técnicas analíticas com uma visão estratética da área de negócio.
 
 Atualmente estou cursando Administração e Ciência de Dados.
 
+
 **Background in:** Python, Power BI.
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/moniquetressino/)
+
 
 
 ## Projetos:
